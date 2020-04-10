@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "todoList app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marvelousy20/todo-task-app.git"
+  },
+  "author": "Afolabi Marvelous Sunday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marvelousy20/todo-task-app/issues"
+  },
+  "homepage": "https://github.com/Marvelousy20/todo-task-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
